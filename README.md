@@ -121,7 +121,7 @@ const manjit = {
 
 ### LeetCode Achievements
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/manjitmishra?theme=dark&font=Fira%20Code&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/manjit_4241?theme=dark&font=Fira%20Code&ext=contest)
 
 **🏆 Contest Rating: 1600+** | **🔥 Problems Solved: 500+**
 
