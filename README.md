@@ -98,23 +98,6 @@ const manjit = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjitmishra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177E8&icon_color=A177E8" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjitmishra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177E8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjitmishra&theme=radical&hide_border=true&background=0D1117&ring=A177E8&fire=A177E8&currStreakLabel=A177E8" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjitmishra&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A177E8&line=A177E8&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🎯 Competitive Programming
 
 <div align="center">
@@ -131,19 +114,6 @@ const manjit = {
 
 ---
 
-## 🏅 Achievements & Recognition
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
-</div>
-
-🏆 **LeetCode Contest Rating 1600+** - Top percentile among active participants  
-💡 **500+ DSA Problems** solved across LeetCode and GeeksforGeeks  
-🎯 **Smart India Hackathon 2025** qualified - College presentation round  
-🎓 **9.3 CGPA** - Top 5% of the batch  
-🚀 Active contributor in college technical fests and hackathons
-
----
 
 ## 📈 Coding Activity
 
