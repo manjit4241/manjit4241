@@ -1,177 +1,153 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Manjit+Mishra+%F0%9F%91%8B;Software+Developer+%7C+Problem+Solver;Samsung+R%26D+Intern+%F0%9F%92%BB;Building+things+%7C+Breaking+things+%7C+Learning+things" alt="Typing SVG" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
-
-<br>
-
-<a href="https://manjit-portfolio.netlify.app/">Portfolio</a>
-&nbsp; • &nbsp;
-<a href="https://linkedin.com/in/manjitmishra">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="https://leetcode.com/manjitmishra">LeetCode</a>
-&nbsp; • &nbsp;
-<a href="mailto:manjitmishra6166@gmail.com">Email</a>
-
-</div>
-
----
-
-## `$ whoami`
-
-```text
-Manjit Mishra
-──────────────────────────────────────────────
-🎓  B.Tech — Electronics & Instrumentation
-🏫  MS Ramaiah Institute of Technology
-📍  Bengaluru, India
-
-💼  Software Engineering Intern @ Samsung R&D
-🧠  DSA • Backend • System Design
-⚡  Building scalable & real-time applications
-
-🏆  LeetCode      → 1899 Highest Rating
-🔥  Problems      → 900+
-🎓  CGPA          → 9.3 / 10
-```
-
----
-
-## `$ cat skills.txt`
-
-```text
-LANGUAGES
-└── Java · C · C++ · JavaScript
-
-FRONTEND / MOBILE
-└── React · React Native · Flutter · Expo · Tailwind CSS
-
-BACKEND
-└── Node.js · Express.js · REST APIs · Socket.IO
-
-DATABASES
-└── MongoDB · MySQL · Firebase · Redis
-
-DEVOPS / TOOLS
-└── Git · GitHub Actions · Docker · Postman · JWT
-
-CORE
-└── DSA · OOP · DBMS · OS · Computer Networks
-    System Design · Distributed Systems
-```
-
----
-
-## `$ experience`
-
-### `Samsung R&D` · Software Engineering Intern
-
-> Worked on **Lottie animation integration with the Godot game engine**, involving native libraries, GDExtension and cross-platform development.
-
-`Godot` `C++` `Kotlin` `ThorVG` `Lottie` `Android`
-
----
-
-## `$ ls ./projects`
-
-### `01` · 💬 ChatApp
-
-**React Native · Node.js · Socket.IO · MongoDB · Gemini API**
-
-A real-time communication platform built around scalable WebSocket-based messaging.
-
-`JWT Authentication` `Real-Time Messaging` `AI Chatbot` `REST APIs`
-
----
-
-### `02` · 🏛️ Nagrik Seva Setu
-
-**Flutter · React · Node.js · MongoDB · Firebase**
-
-Smart civic grievance-management platform developed for **Smart India Hackathon 2025**.
-
-`Geo-tagged Complaints` `Duplicate Detection` `AI Classification` `Admin Dashboard`
-
----
-
-### `03` · 💰 Expensify
-
-**React Native · Node.js · MongoDB · JWT**
-
-Cross-platform personal finance application with analytics and cloud synchronization.
-
-`Expense Tracking` `Analytics` `JWT Auth` `REST APIs`
-
----
-
-## `$ ./leetcode --stats`
+<!-- 
+  SETUP: 
+  1. Create a PUBLIC repo named exactly your GitHub username (e.g. github.com/yourname/yourname)
+  2. Put this file in it as README.md
+  3. Find & replace  YOUR_GITHUB_USERNAME  and  YOUR_LEETCODE_USERNAME  and the LinkedIn link below
+-->
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/manjit_4241?theme=dark&font=JetBrains%20Mono&ext=contest" width="500">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=190&section=header&text=Manjit%20Mishra&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=software%20engineer%20%C2%B7%20competitive%20programmer%20%C2%B7%20builder&descAlignY=60&descSize=17" width="100%" alt="header"/>
 
-<br><br>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=%3E+building+real-time+systems;%3E+LeetCode+Knight+%E2%80%A2+max+rating+1899;%3E+ex-Samsung+R%26D+research+intern;%3E+shipping+full-stack+apps+that+actually+work" alt="typing" />
+</a>
 
-<img src="https://leetcode-stats-six.vercel.app/api?username=manjitmishra&theme=dark" width="500">
+<br/>
 
-<br>
-
-### `1899` Highest Rating &nbsp; • &nbsp; `900+` Problems Solved
+<a href="mailto:manjitmishra6166@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" /></a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=58a6ff" /></a>
 
 </div>
 
----
+<br/>
 
-## `$ git status`
+## `~/about`
+
+```ts
+const manjit = {
+  location:  "Bengaluru, India",
+  studying:  "B.Tech, Electronics & Instrumentation @ MSRIT  (CGPA 9.30)",
+  graduates: 2027,
+  experience: "Software Engineering Research Intern @ Samsung R&D Institute India",
+  focus:     ["Full-stack web", "Real-time systems", "Cross-platform / native", "DSA"],
+  currently: "Exploring game engines, native plugins & AI-powered apps",
+  funFact:   "I cross-compiled a vector graphics engine for 4 platforms and then made a Lottie character run from BFS pathfinding.",
+};
+```
+
+<br/>
+
+## `~/experience`
+
+<table>
+<tr>
+<td>
+
+**Samsung R&D Institute India** · *Software Engineering Research Intern* · `Feb 2026 – Jun 2026`
+
+- Fixed **GDExtension auto-loading failure** in Godot's Android Embedded Mode by writing a custom **Kotlin plugin** (`LottiePlugin.kt`) that manually loads the native `.so`
+- Cross-compiled **ThorVG (ARM64)** and shipped **Lottie animation support** across **Android, iOS, macOS & Web**
+- Built an interactive Godot demo: Lottie-animated character with **BFS pathfinding** and real-time drag interaction
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 ChatApp
+*Real-time chat with an AI assistant*
+
+Socket.IO room-based messaging, JWT auth, persistent history in MongoDB, REST APIs via Express + Mongoose, and a **Gemini-powered** context-aware chatbot.
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ Nagrik-Seva-Setu
+*Smart India Hackathon 2025*
+
+Full-stack civic grievance platform: **Flutter** app + **React** admin dashboard. Geolocation-based duplicate detection, FCM push notifications, Google Sign-In, role-based access, and **Groq AI** for voice transcription & urgency classification.
+
+`Flutter` `React` `Node.js` `MongoDB` `Firebase` `Google Maps` `FCM`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `~/stack`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manjitmishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjitmishra&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://skillicons.dev/icons?i=java,cpp,js,react,tailwind,nodejs,express,mongodb,mysql,firebase,flutter,godot,git,postman&theme=dark" alt="skills" />
 
 </div>
 
----
+| | |
+|---|---|
+| **Languages** | Java · C++ · JavaScript |
+| **Frontend** | React · React Native (CLI, Expo) · Tailwind CSS · Leaflet.js |
+| **Backend** | Node.js · Express.js · Mongoose · Socket.IO · REST · WebSocket · JWT |
+| **Databases** | MongoDB · MySQL · Firebase |
+| **Tools** | Git · Postman · Godot · Lottie |
+| **CS Core** | DSA · DBMS · Operating Systems · OOP · Computer Networks |
 
-## `$ currently_working_on`
+<br/>
 
-```text
-→ Advanced DSA
-→ System Design
-→ Backend Architecture
-→ Distributed Systems
-→ Cloud & DevOps
-```
+## `~/achievements`
 
----
+- 🥋 **LeetCode Knight**: max contest rating **1899**
+- 🧩 **900+ problems** solved across LeetCode & GeeksforGeeks
+- 🥉 **3rd place** at wHACKiest Hackathon (RIT), out of **175+ teams**
+- 🏆 Winner of **Project Nexus** & **Black Box** at TechFest, MSRIT
+- 🇮🇳 Participant, **Smart India Hackathon 2025**
+- 🎓 **9.3 CGPA**, top 5% of batch
+
+<br/>
+
+## `~/stats`
 
 <div align="center">
 
-### `while(alive) { code(); learn(); repeat(); }`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="langs" />
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=manjitmishra&style=for-the-badge&color=8B5CF6">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="streak" />
 
-<br><br>
+<br/>
 
-⭐ <b>Thanks for stopping by.</b>
+<img height="170" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="leetcode" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="activity" />
 
 </div>
+
+<br/>
+
+## `~/contact`
+
+```bash
+$ echo "Open to internships, collabs & interesting problems"
+$ mail manjitmishra6166@gmail.com
 ```
 
-### The vibe I'd aim for
+<div align="center">
 
-**Dark terminal + purple neon + subtle motion**, rather than the old "everything is animated" approach.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="footer"/>
 
-The strongest visual elements are:
-
-`$ whoami` → `$ cat skills.txt` → `$ experience` → `$ ls ./projects` → `$ ./leetcode --stats` → `$ git status`
-
-That makes the README feel like **a developer's workspace**, while the content stays very easy for an interviewer to scan.
-
-And I deliberately kept Samsung to **one short paragraph**. Your actual internship details belong in your **resume/LinkedIn**, not in a 500-line GitHub README.
+</div>
